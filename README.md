@@ -1,10 +1,24 @@
-## Hi there, I'm Kaspar 👋
+## 🏁 Kaspar Nau
 
-![Kaspar's GitHub stats](https://github-readme-stats-taupe-sigma.vercel.app/api?username=kasparnau&show_icons=true&theme=github_dark)
+I'm a passionate software developer specializing in full-stack web development with various cutting-edge technologies. 
 
-## 📚 My blog posts
+<details>
+ <summary><h4>👨‍💻 Kaspar's Coding Journey</h3></summary>
+<p>My first memories of tinkering with coding was at just ~10 years old, when I followed a tutorial to create a Batch password promp. Shortly after I started messing around with scripting small Roblox games to play with friends, and the passion only grew from there!</p>
+ 
+<p>At the age of 14, I embarked on my first significant project, developing a Minecraft server that quickly grew from just a couple friends playing it to averaging over 30 player! I'm happy to have created lasting positive memories for many people around the world. This project also generated a decent amount of pocket money by implementing a Buycraft (now Tebex) web store to sell in-game ranks and items.</p>
 
-## ⚡ My favorite tech
+<p>Other than building awesome things, in my free time I also like working out and cooking!</p>
+
+<p>I love learning new things, overcoming complex challenges and creating a positive impact on the world.</p>
+</details>
+
+### 📚 Recent blog posts
+
+* ♻ [SVG to JSX Converter Tool](https://kasparnau.com/blog/svg-to-jsx) 
+* 🍌 [How I Built Banano Casino](https://kasparnau.com/blog/how-i-built-banano-casino)
+
+### ⚡ Favorite tech
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

@@ -2,6 +2,7 @@
 
 I'm a passionate software developer specializing in full-stack web development with various cutting-edge technologies. 
 
+<!---
 <details>
  <summary><h4>👨‍💻 Kaspar's Coding Journey</h3></summary>
 <p>My first memories of tinkering with coding was at just ~10 years old, when I followed a tutorial to create a Batch password promp. Shortly after I started messing around with scripting small Roblox games to play with friends, and the passion only grew from there!</p>
@@ -17,6 +18,7 @@ I'm a passionate software developer specializing in full-stack web development w
 
 * ♻ [SVG to JSX Converter Tool](https://kasparnau.com/blog/svg-to-jsx) 
 * 🍌 [How I Built Banano Casino](https://kasparnau.com/blog/how-i-built-banano-casino)
+--->
 
 ### ⚡ Favorite tech
  

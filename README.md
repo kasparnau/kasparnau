@@ -6,11 +6,13 @@ I'm a passionate software developer specializing in full-stack web development w
  <summary><h4>👨‍💻 Kaspar's Coding Journey</h3></summary>
 <p>My first memories of tinkering with coding was at just ~10 years old, when I followed a tutorial to create a Batch password promp. Shortly after I started messing around with scripting small Roblox games to play with friends, and the passion only grew from there!</p>
  
-<p>At the age of 14, I embarked on my first significant project, developing a Minecraft server that quickly grew from just a couple friends playing it to averaging over 30 player! I'm happy to have created lasting positive memories for many people around the world. This project also generated a decent amount of pocket money by implementing a Buycraft (now Tebex) web store to sell in-game ranks and items.</p>
+<p>At the age of 14, I embarked on my first significant project, developing a Minecraft server that quickly grew from just a couple friends playing it to averaging over 30 player! I'm happy to have created cherished and positive memories for many people around the world. I successfully monetized the project by introducing a Buycraft (now Tebex) web store, resulting in side income through selling in-game ranks and items 😎.</p>
 
-<p>Other than building awesome things, I also enjoy custom keyboards, working out, and cooking!!</p>
+<p>Since then I've had many side projects, and currently my focus lies on working on my TypeScript, Next.js, and PrismaORM skills. I also enjoy solving LeetCode problems and I'm doing the CS50 course to deepen my understanding of low-level stuff!</p>
 
-<p>I love learning new things, overcoming complex challenges and creating a positive impact on the world.</p>
+<p>Other than building awesome things, I also enjoy custom keyboards, working out, and cooking!</p>
+
+<p>I love learning new things, solving complex challenges and creating a positive impact on the world.</p>
 </details>
 
 ### 📚 Recent blog posts

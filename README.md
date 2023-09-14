@@ -8,7 +8,7 @@ I'm a passionate software developer specializing in full-stack web development w
  
 <p>At the age of 14, I embarked on my first significant project, developing a Minecraft server that quickly grew from just a couple friends playing it to averaging over 30 player! I'm happy to have created cherished and positive memories for many people around the world. I successfully monetized the project by introducing a Buycraft (now Tebex) web store, resulting in side income through selling in-game ranks and items 😎.</p>
 
-<p>Since then I've had many side projects, and currently my focus lies on working on my TypeScript, Next.js, and PrismaORM skills. I also enjoy solving LeetCode problems and I'm doing the CS50 course to deepen my understanding of low-level stuff!</p>
+<p>Since then I've had many side projects, currently my focus lies on improving my TypeScript, Next.js, and PrismaORM skills. I also enjoy solving LeetCode problems and I'm doing the CS50 course to learn more about low-level computer stuff!</p>
 
 <p>Other than building awesome things, I also enjoy custom keyboards, working out, and cooking!</p>
 

@@ -15,7 +15,7 @@ I'm a passionate software developer specializing in full-stack web development w
 
 ### 📚 Recent blog posts
 
-* 🐘 [PostgreSQL Tricks You Probably Don't Know](https://www.kasparnau.com/blog/postgres-tricks)
+* 🐘 [Useful PostgreSQL Tricks You Should Know](https://www.kasparnau.com/blog/postgres-tricks)
 * 🍌 [How I Built Banano Casino](https://kasparnau.com/blog/how-i-built-banano-casino)
 * ♻ [SVG to JSX Converter Tool](https://kasparnau.com/blog/svg-to-jsx) 
 

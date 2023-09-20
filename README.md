@@ -4,7 +4,7 @@ I'm a passionate software developer specializing in full-stack web development w
 
 <details>
  <summary><h4>👨‍💻 Kaspar's Coding Journey</h3></summary>
-<p>My first memories of tinkering with coding was at just ~10 years old, when I followed a tutorial to create a Batch password promp. Shortly after I started messing around with scripting small Roblox games to play with friends, and the passion only grew from there!</p>
+<p>I first tinkered with coding at just ~10 years old, when I followed a tutorial to create a Batch password promp. Shortly after I started messing around with scripting small Roblox games to play with friends, and the passion only grew from there!</p>
  
 <p>At the age of 14, I embarked on my first significant project, developing a Minecraft server that quickly grew from just a couple friends playing it to averaging over 30 player! I'm happy to have created cherished and positive memories for many people around the world. I successfully monetized the project by introducing a Buycraft (now Tebex) web store, resulting in side income through selling in-game ranks and items 😎.</p>
 

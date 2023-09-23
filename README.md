@@ -1,6 +1,8 @@
 ## 🏁 Kaspar Nau
 
-I'm a passionate software developer specializing in full-stack web development with various cutting-edge technologies. 
+I'm a passionate software developer specializing in full-stack web development with various cutting-edge technologies.
+
+Check out my [portfolio](https://kasparnau.com/).
 
 ### 📚 Recent blog posts
 

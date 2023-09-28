@@ -6,6 +6,7 @@ Check out my [portfolio](https://kasparnau.com/).
 
 ### 📚 Recent blog posts
 
+* 🎨 [Mastering UI and UX Design](https://kasparnau.com/blog/mastering-ui-and-ux)
 * 🐘 [Useful PostgreSQL Tricks You Should Know](https://www.kasparnau.com/blog/postgres-tricks)
 * 🍌 [How I Built Banano Casino](https://kasparnau.com/blog/how-i-built-banano-casino)
 * ♻ [SVG to JSX Converter Tool](https://kasparnau.com/blog/svg-to-jsx) 

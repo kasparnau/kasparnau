@@ -2,8 +2,6 @@
 
 I'm a passionate software developer specializing in full-stack web development with various cutting-edge technologies.
 
-Check out my [portfolio](https://kasparnau.com/).
-
 ### 📚 Recent blog posts
 
 * 🎨 [Mastering UI and UX Design](https://kasparnau.com/blog/mastering-ui-and-ux)
